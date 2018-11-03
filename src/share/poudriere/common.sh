@@ -781,6 +781,7 @@ buildlog_start() {
 	    MAINTAINER
 	    CONFIGURE_ARGS
 	    CONFIGURE_ENV
+	    CMAKE_ARGS
 	    MAKE_ENV
 	    PLIST_SUB
 	    SUB_LIST
